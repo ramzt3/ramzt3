@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Django.
 - 💬 Ask me about ...
 - 😄 Pronouns: ram-z-t-three || si-li-pong
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I use Neovim btw
 
 <!--
 

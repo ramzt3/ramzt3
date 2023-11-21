@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python, Django.
 - 💬 Ask me about ...
-- 😄 Pronouns: ram z t three
+- 😄 Pronouns: ram-z-t-three || si-li-pong
 - ⚡ Fun fact: ...
 
 <!--

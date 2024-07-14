@@ -1,6 +1,6 @@
-### Ayo 👋
+### Hi There 👋
 
-- 🌱 I’m currently learning Python, Django.
+- 🌱 I’m currently learning Laravel, Python and Django.
 - ⚡ Fun fact: I use Neovim btw
 
 <!--
